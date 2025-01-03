@@ -1,7 +1,7 @@
-package com.github.ojvzinn;
+package com.github.ojvzinn.skinchecker;
 
-import com.github.ojvzinn.interfaces.ImageAction;
-import com.github.ojvzinn.utils.PixeisLocation;
+import com.github.ojvzinn.skinchecker.interfaces.ImageAction;
+import com.github.ojvzinn.skinchecker.utils.PixeisLocation;
 import lombok.SneakyThrows;
 
 import javax.imageio.ImageIO;

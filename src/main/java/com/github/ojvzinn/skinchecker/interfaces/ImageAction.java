@@ -1,4 +1,4 @@
-package com.github.ojvzinn.interfaces;
+package com.github.ojvzinn.skinchecker.interfaces;
 
 public interface ImageAction {
 

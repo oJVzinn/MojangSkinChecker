@@ -1,4 +1,4 @@
-package com.github.ojvzinn.utils;
+package com.github.ojvzinn.skinchecker.utils;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
